@@ -1,4 +1,4 @@
-// GitHub Repo: https://github.com/YOUR_USERNAME/cs81-module4b-mydataexplorer
+// GitHub Repo: https://github.com/OChal7/cs81-module4b-mydataexplorer
 
 const weekData = [
   { day: "Monday", sleepHours: 6.5, screenTime: 4, mood: "tired", caffeineIntake: 3, focusLevel: 6 },
